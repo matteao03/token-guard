@@ -1,0 +1,17 @@
+{
+    "name": "matteao\/token-guard",
+    "description": "a laravel token guard",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "matteao",
+            "email": "matteao_03@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Matteao\\TokenGuard\\": "src"
+        }
+    }
+}
